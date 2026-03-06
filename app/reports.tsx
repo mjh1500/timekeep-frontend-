@@ -1,7 +1,3 @@
-Commit changes
-3. Create app/jobsites.tsx
-Add file → Name: app/jobsites.tsx
-Paste:
 import React, { useState, useCallback } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity, TextInput, Alert, ActivityIndicator, RefreshControl } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
